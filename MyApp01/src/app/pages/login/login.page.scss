@@ -1,0 +1,15 @@
+ion-button[color='dark']{
+  text-transform: initial;
+}
+ion-button{
+  font-weight: 600 !important;
+  letter-spacing: 0.1rem;
+}
+ion-content{
+  --background: var(--ion-color-success);
+}
+
+span{
+  color: white;
+}
+
